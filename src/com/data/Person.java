@@ -5,8 +5,6 @@ public class Person {
     public String address;
     public String phone;
     public int money;
-    protected
-
     // contructor: không tham số
     // public className(){
     //}
@@ -14,8 +12,6 @@ public class Person {
     // contructor: có tham số
     // public className(String fullName){
     //}
-
-
     public Person() {
         System.out.println("Contructor no param");
     }
