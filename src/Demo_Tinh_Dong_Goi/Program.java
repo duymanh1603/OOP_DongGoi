@@ -1,6 +1,6 @@
-package Demo;
+package Demo_Tinh_Dong_Goi;
 
-import Demo.info.Student;
+import Demo_Tinh_Dong_Goi.info.Student;
 
 public class Program {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Demo.info;
+package Demo_Tinh_Dong_Goi.info;
 
 public class StudenDetail {
     public void showData(){
