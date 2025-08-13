@@ -1,6 +1,6 @@
 package Demo_Tinh_Truu_Tuong;
 
-public class chicken extends Animal {
+public class Chicken extends Animal {
 
     @Override
     public void showInfo() {
